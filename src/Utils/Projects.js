@@ -9,7 +9,7 @@ export const projects = [
 		technologies: [ 'HTML', 'CSS', 'javaScript', 'MongoDb'],
 	},
 	{
-		img: "https://assets.smallcase.com/images/smallcases/160/SCET_0015.png",
+		img: "https://assets.smallcase.com/images/smallcases/160/SCNM_0010.png",
 		title: 'Smallcase Clone',
 		des: 'Smallcase is the website where users can buy stocks and invest in it. Replication of Smallcase website along with authentication feature, where users can filter, see the details and invest in stocks.',
 		demo: '',
