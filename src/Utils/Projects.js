@@ -1,7 +1,7 @@
 export const projects = [
 	{
 		img: 'https://gurdeep7.github.io/upgrad/images/slideshow1.jpg',
-		title: 'Upgrade Clone',
+		title: 'Linkedin Clone',
 		des: "Upgrade is the website where users can buy different educational courses. In this project we have cloned some important features of the website with backend integration. We used NodeJS runtime, Express framework and MongoDB as database",
 		demo: '',
 		live: 'https://gurdeep7.github.io/upgrad/html/index.html',
